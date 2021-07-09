@@ -4,6 +4,8 @@ A new Flutter Exploring Freezed Project.
 
 ## Getting Started
 
+I am implementing the Freezed Dart Package i.e. Code Generator with Flutter. As, I am getting the data from the API using freezed i.e. Code Generator in the flutter.
+
 1. Fork the project and clone through HTTPS or SSH or GitHub CLI
 2. Open Command Prompt - ```git clone``` 
 3. Open the Directory of Clone file, ```flutter clean``` and ```flutter pub get``` in the terminal
@@ -26,3 +28,7 @@ Add three Package in the ```pubspec.yaml```
 ## Inside of your terminal within the project to generate our code, run:
     flutter pub run build_runner build
     flutter pub run build_runner watch --delete-conflicting-outputs
+
+#
+### For More You Can Check This
+[freezed | Dart Package](https://pub.dev/packages/freezed)
