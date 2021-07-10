@@ -23,7 +23,7 @@ Add three Package in the ```pubspec.yaml```
 - build_runner
 - freezed
 
-<img src="https://user-images.githubusercontent.com/73419211/125026453-59c0d480-e0a4-11eb-9cc7-dd2acde95104.png" height="600" width="1200">
+<img src="https://user-images.githubusercontent.com/73419211/125026453-59c0d480-e0a4-11eb-9cc7-dd2acde95104.png">
 
 ## Inside of your terminal within the project to generate our code, run:
     flutter pub run build_runner build
