@@ -7,7 +7,7 @@ A new Flutter Exploring Freezed Project.
 I am implementing the Freezed Dart Package i.e. Code Generator with Flutter. As, I am getting the data from the API using freezed i.e. Code Generator in the flutter.
 
 1. Fork the project and clone through HTTPS or SSH or GitHub CLI
-2. Open Command Prompt - ```git clone``` 
+2. Open Command Prompt - ```git clone https://github.com/devkishor8007/exploring_freezed.git``` 
 3. Open the Directory of Clone file, ```flutter clean``` and ```flutter pub get``` in the terminal
 4. You can see the output in your mobile screen 
 
@@ -31,4 +31,4 @@ Add three Package in the ```pubspec.yaml```
 
 #
 ### For More You Can Check This
-[freezed | Dart Package](https://pub.dev/packages/freezed)
+- [freezed | Dart Package](https://pub.dev/packages/freezed)
