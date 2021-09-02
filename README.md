@@ -21,7 +21,7 @@ I am implementing the Freezed Dart Package i.e. Code Generator with Flutter. As,
 Add three Package in the ```pubspec.yaml```
 - freezed
 - build_runner
-- freezed
+- freezed_annotation
 
 <img src="https://user-images.githubusercontent.com/73419211/125026453-59c0d480-e0a4-11eb-9cc7-dd2acde95104.png">
 
